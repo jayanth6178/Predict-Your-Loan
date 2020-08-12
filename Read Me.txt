@@ -1,0 +1,4 @@
+LOAN PREDICTOR:
+
+Automation of Loan eligibility process(Real Time) based on customer details credit score and some other attributes.
+ I have Implemented this project using KNN, Logistic Regression, Decision Tree, Random forest and Naïve Bias.
